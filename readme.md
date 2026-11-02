@@ -2,7 +2,9 @@
 
 Hello World example project
 
-[Software Demo Video](http://youtube.link.goes.here)
+# Demo video
+
+https://youtu.be/tgEsGyId9s0
 
 # Development Environment
 
